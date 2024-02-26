@@ -14,6 +14,14 @@
 > **segunda-feira**, **07:30-09:10** (2hs/aula) - 04G (**prédio 25, sala 306**) <br>
 > **terça-feira**, **07:30-09:10** (2hs/aula) - 04G11 (**prédio 31, sala 202**)
 
+### Calendário Escolar
+
+**Calendário Escolar**, **Regulamento Acadêmico** e outras informações: <a href="https://www.mackenzie.br/universidade/processos-academicos-para-coordenadoria-geral-de-relacionamento-e-atendimento/informacoes-ao-aluno/calendario-escolar" target="_blank">CLIQUE AQUI</a>
+
+### Plano de ensino
+
+**Plano de ensino** disponível no link a seguir:
+[Plano de ensino](conteudo/plano-de-ensino/CC_04G_Plano_de_ensino_EstruturadeDadosII_2024_1.pdf)
 
 ### Como entrar em contato com o professor?
 
@@ -21,21 +29,11 @@
 - **E-mail**: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
 
 
-### Calendário Escolar
-
-**Calendário Escolar**, **Regulamento Acadêmico** e outras informações: <a href="https://www.mackenzie.br/universidade/processos-academicos-para-coordenadoria-geral-de-relacionamento-e-atendimento/informacoes-ao-aluno/calendario-escolar" target="_blank">CLIQUE AQUI</a>
-
-
-### Plano de ensino
-
-**Plano de ensino** disponível no link a seguir:
-[Plano de ensino](conteudo/plano-de-ensino/CC_04G_Plano_de_ensino_EstruturadeDadosII_2024_1.pdf)
-
-
 ## EXERCÍCIOS E AVALIAÇÕES
 
-- [Lab1a - Revisão: Programação Orientada a Objetos com Java (entrega até 05/03/2024 23:59)](atividades/n1/EDII-2024.1%20-%20Lab1a%20-%20Revisão%20POO%20com%20Java.pdf)
+- [Lab1a - Revisão: Programação Orientada a Objetos com Java](atividades/n1/EDII-2024.1%20-%20Lab1a%20-%20Revisão%20POO%20com%20Java.pdf) - Entrega até 05/03/2024 23:59
   - Arquivo extra para a atividade Lab1a: [imdb.txt](atividades/n1/imdb.txt)
+- [Lab1b - POO: Herança e polimorfismo](atividades/n1/EDII-2024.1%20-%20Lab1b%20-%20POO%20Herança.pdf) - Entrega até 12/03/2024 23:59
 
 
 ## ÍNDICE DE AULAS
@@ -82,7 +80,7 @@
 
 ### Arquivos
 
-- [Revisão POO com Java (pdf)](conteudo/semana-2/EDII-POO_Heranca_Java.pdf)
+- [Herança em Java (pdf)](conteudo/semana-2/EDII-POO_Heranca_Java.pdf)
 
 ### Referências e recursos
 
