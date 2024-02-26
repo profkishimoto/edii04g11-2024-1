@@ -11,8 +11,8 @@
 > Professores: **Jean Marcos Laine** (teoria) e **André Kishimoto** (laboratório)
 
 > **1º semestre 2024**<br>
-> **segunda-feira**, **07:30-09:10** (2hs/aula) - (**04G**) (prédio 25, sala 306) <br>
-> **terça-feira**, **07:30-09:10** (2hs/aula) (**04G11**) (prédio 31, sala 202)
+> **segunda-feira**, **07:30-09:10** (2hs/aula) - 04G (**prédio 25, sala 306**) <br>
+> **terça-feira**, **07:30-09:10** (2hs/aula) - 04G11 (**prédio 31, sala 202**)
 
 
 ### Como entrar em contato com o professor?
@@ -41,7 +41,7 @@
 ## ÍNDICE DE AULAS
 
 - [Semana 1: Revisão POO/Java](#semana-1-2002)
-
+- [Semana 2: POO: Herança e polimorfismo](#semana-2-2702)
 
 ## Semana 1 (20/02)
 
@@ -70,3 +70,21 @@
 - HORSTMANN, C. S.; CORNELL, G. **Core Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
   - Capítulo 3 (Estruturas de programação fundamentais no Java)
   - Capítulo 4 (Objetos e classes)
+
+## Semana 2 (27/02)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Apresentar conceito de herança em Java.
+- Revisar encapsulamento e polimorfismo em Java.
+
+### Arquivos
+
+- [Revisão POO com Java (pdf)](conteudo/semana-2/EDII-POO_Heranca_Java.pdf)
+
+### Referências e recursos
+
+- DEVMEDIA. **Encapsulamento, Polimorfismo, Herança em Java**. Disponível em <a href="https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991" target="_blank">https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991</a>.
+
