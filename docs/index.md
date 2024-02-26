@@ -31,6 +31,8 @@
 
 ## EXERCÍCIOS E AVALIAÇÕES
 
+**Atenção!** As entregas das atividades devem ser realizadas pelo Moodle!
+
 - [Lab1a - Revisão: Programação Orientada a Objetos com Java](atividades/n1/EDII-2024.1%20-%20Lab1a%20-%20Revisão%20POO%20com%20Java.pdf) - Entrega até 05/03/2024 23:59
   - Arquivo extra para a atividade Lab1a: [imdb.txt](atividades/n1/imdb.txt)
 - [Lab1b - POO: Herança e polimorfismo](atividades/n1/EDII-2024.1%20-%20Lab1b%20-%20POO%20Herança.pdf) - Entrega até 12/03/2024 23:59
