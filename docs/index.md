@@ -21,7 +21,7 @@
 ### Plano de ensino
 
 **Plano de ensino** disponível no link a seguir:
-[Plano de ensino](conteudo/plano-de-ensino/CC_04G_Plano_de_ensino_EstruturadeDadosII_2024_1.pdf)
+[Plano de ensino (pdf)](conteudo/plano-de-ensino/CC_04G_Plano_de_ensino_EstruturadeDadosII_2024_1.pdf)
 
 ### Como entrar em contato com o professor?
 
@@ -42,6 +42,7 @@
 
 - [Semana 1: Revisão POO/Java](#semana-1-2002)
 - [Semana 2: POO: Herança e polimorfismo](#semana-2-2702)
+
 
 ## Semana 1 (20/02)
 
@@ -71,6 +72,7 @@
   - Capítulo 3 (Estruturas de programação fundamentais no Java)
   - Capítulo 4 (Objetos e classes)
 
+
 ## Semana 2 (27/02)
 
 [Índice de aulas ⤴](#índice-de-aulas)
@@ -83,6 +85,7 @@
 ### Arquivos
 
 - [Herança em Java (pdf)](conteudo/semana-2/EDII-POO_Heranca_Java.pdf)
+- [Classes Pessoa e PessoaFisica - Exemplo de herança em Java criado em aula (zip)](conteudo/semana-2/ExemploEmAula-04G11-Pessoa.zip)
 
 ### Referências e recursos
 
