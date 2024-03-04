@@ -36,12 +36,15 @@
 - [Lab1a - Revisão: Programação Orientada a Objetos com Java](atividades/n1/EDII-2024.1%20-%20Lab1a%20-%20Revisão%20POO%20com%20Java.pdf) - Entrega até 05/03/2024 23:59
   - Arquivo extra para a atividade Lab1a: [imdb.txt](atividades/n1/imdb.txt)
 - [Lab1b - POO: Herança e polimorfismo](atividades/n1/EDII-2024.1%20-%20Lab1b%20-%20POO%20Herança.pdf) - Entrega até 12/03/2024 23:59
+- [Lab1c - Árvore Binária](atividades/n1/EDII-2024.1%20-%20Lab1c%20-%20Árvore%20binária.pdf) - Entrega até 19/03/2024 23:59
+- [Apl1 - Árvore binária de expressão aritmética](atividades/n1/EDII-2024.1%20-%20Apl1.pdf) - Entrega até 31/03/2024 23:59
 
 
 ## ÍNDICE DE AULAS
 
 - [Semana 1: Revisão POO/Java](#semana-1-2002)
 - [Semana 2: POO: Herança e polimorfismo](#semana-2-2702)
+- [Semana 3: Árvore binária](#semana-3-0503)
 
 
 ## Semana 1 (20/02)
@@ -91,3 +94,21 @@
 
 - DEVMEDIA. **Encapsulamento, Polimorfismo, Herança em Java**. Disponível em <a href="https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991" target="_blank">https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991</a>.
 
+
+## Semana 3 (05/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Iniciar implementação do TAD árvore (código base).
+
+### Arquivos
+
+- [Árvores - fundamentos (pdf)](conteudo/semana-3/Árvores%20-%20Fundamentos.pdf)
+
+### Referências e recursos
+
+- GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Capítulo 7 (Árvores)
+- TK; NAKAMURA, E. (trad.). **Tudo o que você precisa saber sobre estruturas de dados em árvore**. Disponível em <a href="https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore" target="_blank">https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore</a>.
