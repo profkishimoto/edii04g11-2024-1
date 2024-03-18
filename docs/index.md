@@ -43,13 +43,13 @@
 
 ## ÍNDICE DE AULAS
 
-- [Semana 1: Revisão POO/Java](#■■■■■-semana-1-2002-■■■■■)
-- [Semana 2: POO: Herança e polimorfismo](#■■■■■-semana-2-2702-■■■■■)
-- [Semana 3: Árvore binária](#■■■■■-semana-3-0503-■■■■■)
-- [Semana 4: BST](#■■■■■-semana-4-1203-■■■■■)
-- [Semana 5: Atividades práticas](#■■■■■-semana-5-1903-■■■■■)
-- [Semana 6: Atividades práticas](#■■■■■-semana-6-2603-■■■■■)
-- [Semana 7: WTT 2024](#■■■■■-semana-7-0204-■■■■■)
+- [Semana 1: Revisão POO/Java](#-semana-1-2002-)
+- [Semana 2: POO: Herança e polimorfismo](#-semana-2-2702-)
+- [Semana 3: Árvore binária](#-semana-3-0503-)
+- [Semana 4: BST](#-semana-4-1203-)
+- [Semana 5: Atividades práticas](#-semana-5-1903-)
+- [Semana 6: Atividades práticas](#-semana-6-2603-)
+- [Semana 7: WTT 2024](#-semana-7-0204-)
 
 
 ## ■■■■■ Semana 1 (20/02) ■■■■■
