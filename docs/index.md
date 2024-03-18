@@ -52,7 +52,7 @@
 - [Semana 7: WTT 2024](#semana-7-0204)
 
 
-## Semana 1 (20/02)
+## ■■■■■ Semana 1 (20/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -81,7 +81,7 @@
   - Capítulo 4 (Objetos e classes)
 
 
-## Semana 2 (27/02)
+## ■■■■■ Semana 2 (27/02) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -100,7 +100,7 @@
 - DEVMEDIA. **Encapsulamento, Polimorfismo, Herança em Java**. Disponível em <a href="https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991" target="_blank">https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991</a>.
 
 
-## Semana 3 (05/03)
+## ■■■■■ Semana 3 (05/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -119,7 +119,7 @@
 - TK; NAKAMURA, E. (trad.). **Tudo o que você precisa saber sobre estruturas de dados em árvore**. Disponível em <a href="https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore" target="_blank">https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore</a>.
 
 
-## Semana 4 (12/03)
+## ■■■■■ Semana 4 (12/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -134,7 +134,7 @@
 - TK; NAKAMURA, E. (trad.). **Tudo o que você precisa saber sobre estruturas de dados em árvore**. Disponível em <a href="https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore" target="_blank">https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore</a>.
 
 
-## Semana 5 (19/03)
+## ■■■■■ Semana 5 (19/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -147,7 +147,7 @@
 - Ver semanas anteriores.
 
 
-## Semana 6 (26/03)
+## ■■■■■ Semana 6 (26/03) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
@@ -160,7 +160,7 @@
 - Ver semanas anteriores.
 
 
-## Semana 7 (02/04)
+## ■■■■■ Semana 7 (02/04) ■■■■■
 
 [Índice de aulas ⤴](#índice-de-aulas)
 
