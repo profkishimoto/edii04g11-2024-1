@@ -47,6 +47,9 @@
 - [Semana 2: POO: Herança e polimorfismo](#semana-2-2702)
 - [Semana 3: Árvore binária](#semana-3-0503)
 - [Semana 4: BST](#semana-4-1203)
+- [Semana 5: Atividades práticas](#semana-5-1903)
+- [Semana 6: Atividades práticas](#semana-6-2603)
+- [Semana 7: WTT 2024](#semana-7-0204)
 
 
 ## Semana 1 (20/02)
@@ -129,3 +132,36 @@
 - GOODRICH, M. T.; TAMASSIA, R. **Estruturas de dados e algoritmos em Java**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Capítulo 7 (Árvores)
 - TK; NAKAMURA, E. (trad.). **Tudo o que você precisa saber sobre estruturas de dados em árvore**. Disponível em <a href="https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore" target="_blank">https://www.freecodecamp.org/portuguese/news/tudo-o-que-voce-precisa-saber-sobre-estruturas-de-dados-em-arvore</a>.
+
+
+## Semana 5 (19/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Desenvolvimento das atividades práticas.
+
+### Referências e recursos
+
+- Ver semanas anteriores.
+
+
+## Semana 6 (26/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Desenvolvimento das atividades práticas.
+
+### Referências e recursos
+
+- Ver semanas anteriores.
+
+
+## Semana 7 (02/04)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+WTT 2024 - Workshop de Tendências Tecnológicas (não haverá aula da disciplina).
