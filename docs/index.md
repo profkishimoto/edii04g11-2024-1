@@ -142,6 +142,10 @@
 
 - Desenvolvimento das atividades práticas.
 
+### Arquivos
+
+- [Programação genérica em Java - Exemplo criado em aula (zip)](conteudo/semana-5/ExemploGeneric04G11.zip)
+
 ### Referências e recursos
 
 - Ver semanas anteriores.
