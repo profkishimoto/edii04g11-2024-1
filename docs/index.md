@@ -37,6 +37,7 @@
   - Arquivo extra para a atividade Lab1a: [imdb.txt](atividades/n1/imdb.txt)
 - [Lab1b - POO: Herança e polimorfismo](atividades/n1/EDII-2024.1%20-%20Lab1b%20-%20POO%20Herança.pdf) - Entrega até 12/03/2024 23:59
 - [Lab1c - Árvore Binária](atividades/n1/EDII-2024.1%20-%20Lab1c%20-%20Árvore%20binária.pdf) - Entrega até 19/03/2024 23:59
+  - [Resolução da atividade Lab1c (zip)](atividades/n1/Resolução%20-%20EDII-2024.1%20-%20Lab1c%20-%20Árvore%20binária.zip)
 - [Lab1d - BST](atividades/n1/EDII-2024.1%20-%20Lab1d%20-%20BST.pdf) - Entrega até 26/03/2024 23:59
 - [Apl1 - Árvore binária de expressão aritmética](atividades/n1/EDII-2024.1%20-%20Apl1.pdf) - Entrega até 31/03/2024 23:59
 
