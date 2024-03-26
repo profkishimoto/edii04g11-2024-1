@@ -35,7 +35,9 @@
 
 - [Lab1a - Revisão: Programação Orientada a Objetos com Java](atividades/n1/EDII-2024.1%20-%20Lab1a%20-%20Revisão%20POO%20com%20Java.pdf) - Entrega até 05/03/2024 23:59
   - Arquivo extra para a atividade Lab1a: [imdb.txt](atividades/n1/imdb.txt)
+  - [Resolução da atividade Lab1a (zip)](atividades/n1/Resolução%20-%20EDII-2024.1%20-%20Lab1a%20-%20Revisão%20POO%20com%20Java.zip)
 - [Lab1b - POO: Herança e polimorfismo](atividades/n1/EDII-2024.1%20-%20Lab1b%20-%20POO%20Herança.pdf) - Entrega até 12/03/2024 23:59
+  - [Resolução da atividade Lab1b (zip)](atividades/n1/Resolução%20-%20EDII-2024.1%20-%20Lab1b%20-%20POO%20Herança.zip)
 - [Lab1c - Árvore Binária](atividades/n1/EDII-2024.1%20-%20Lab1c%20-%20Árvore%20binária.pdf) - Entrega até 19/03/2024 23:59
   - [Resolução da atividade Lab1c (zip)](atividades/n1/Resolução%20-%20EDII-2024.1%20-%20Lab1c%20-%20Árvore%20binária.zip)
 - [Lab1d - BST](atividades/n1/EDII-2024.1%20-%20Lab1d%20-%20BST.pdf) - Entrega até 26/03/2024 23:59
